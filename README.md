@@ -1,5 +1,5 @@
 # C++ Primer Plus 第六版中文版原书代码和习题解答
-
+课后题答案在线阅读 https://relph1119.github.io/c-primer-plus/#/ch11/ex01
 ![C++ Primer Plus](https://static.fungenomics.com/images/2021/07/c-primer-plus6.jpg)
 
 这是最有名的 C++ 入门书之一，内容系统、易读（我认为比《C++ Primer》更适合入门）。
